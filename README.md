@@ -1,7 +1,7 @@
 # Binary-Coded_Genetic_Algorithm
 Contains all the relevant resources for the execution of a Binary-Coded Genetic Algorithm
 
-## Sample binary chromosomes taken into account :-
+## Sample binary chromosomes taken into account:
 | Index  | Chromosomes |
 | :-------------: | :-------------: |
 | 1 | 0110011010 |
