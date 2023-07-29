@@ -431,7 +431,7 @@ class Operations():
         print("Final Population:\n", tabulate(New_Gen.items(), headers="firstrow", tablefmt='psql'))
 
 
-op = Operations(10, 8, 250)
+op = Operations(10, 8, 2)
 # op.Initial_Population(10,8,Parent)
 # op.Evaluate(10,8,Parent)
 # op.Selection(10,8)
